@@ -1,0 +1,4 @@
+Running Hugging Face models on a personal machine can be quite slow due to limited computational resources. To address this, the model was pretrained using a Google Colab environment, which provides access to GPU support for faster processing. This fine-tuned model is stored in the model folder, and you can load it directly to obtain responses efficiently. Additionally, there are two notebooks provided: the first one demonstrates the training process in Google Colab, while the second one shows how to run the model in a Docker container. Using the Docker container ensures a consistent and isolated environment, making it easier to deploy the model on different systems.
+
+Dataset Collection 
+Kaggel dataset has been used to finetune this model (Click Here : https://www.kaggle.com/datasets/venky73/spam-mails-dataset?select=spam_ham_dataset.csv)

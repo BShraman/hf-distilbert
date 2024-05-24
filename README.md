@@ -5,8 +5,8 @@ Running Huggingface models on a personal machine can be quite slow due to limite
 ## Notebooks Provided
 
 Additionally, there are two notebooks provided:
-1. **Training Process in Google Colab**: Demonstrates the training process in Google Colab.
-2. **Running the Model in a Docker Container**: Shows how to run the model in a Docker container.
+1. **Training Process in Google Colab**: Demonstrates the training process in Google Colab [here](https://github.com/BShraman/hf-distilbert/tree/main/google-colab).
+2. **Running the Model in a Docker Container**: Shows how to run the model in a Docker container [here](https://github.com/BShraman/hf-distilbert/tree/main/notebook).
 
 Using the Docker container ensures a consistent and isolated environment, making it easier to deploy the model on different systems.
 

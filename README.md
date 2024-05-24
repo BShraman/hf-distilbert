@@ -1,6 +1,6 @@
-# Huggingface Model Deployment
+# Hugging Face Model Deployment
 
-Running Huggingface models on a personal machine can be quite slow due to limited computational resources. To address this, the model was pretrained using a Google Colab environment, which provides access to GPU support for faster processing. This fine-tuned model is uploaded in huggingface  `model` repository [here](https://huggingface.co/shraman5702/distilbert-base-uncased-finetuned-sst-2-english/tree/main), and you can load it directly to obtain responses efficiently.
+Running Hugging Face models on a personal machine can be quite slow due to limited computational resources. To address this, the model was pretrained using a Google Colab environment, which provides access to GPU support for faster processing. This fine-tuned model is uploaded in huggingface  `model` repository [here](https://huggingface.co/shraman5702/distilbert-base-uncased-finetuned-sst-2-english/tree/main), and you can load it directly to obtain responses efficiently.
 
 ## Notebooks Provided
 
